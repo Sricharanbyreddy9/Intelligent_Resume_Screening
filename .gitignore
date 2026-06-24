@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+backend/chroma_db/
+node_modules/
+dist/
+*.bin
+*.safetensors
